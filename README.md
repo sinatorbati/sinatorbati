@@ -150,14 +150,11 @@ Exploring mobile development and cross-platform applications using Flutter and D
 
 ---
 
-# 🏆 GitHub Achievements
-
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=sinatorbati&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sinatorbati&theme=tokyo-night&hide_border=true&area=true&custom_title=Sina%20Tabrati's%20Contribution%20Graph">
 
 </div>
-
 ---
 
 # 🐍 Contribution Snake
