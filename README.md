@@ -147,9 +147,7 @@ I have also explored mobile development using Flutter and Dart, building applica
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sinatorbati&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinatorbati&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sinatorbati&theme=tokyonight" width="90%">
 
 </div>
 
