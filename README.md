@@ -1,44 +1,126 @@
+<div align="center">
+
 <img src="./banner.png" width="100%">
 
 <br>
 
 # 👋 Hi, I'm Sina Tabrati
 
-### Junior Developer | Building Real Projects 🚀
+### Software Developer • Building Web & Mobile Applications
 
-I'm a developer who enjoys creating practical applications, learning new technologies, and improving through real-world projects.
+<p>
+I create practical software solutions and enjoy turning ideas into real products.
+<br>
+Focused on web development, backend systems, databases and mobile applications.
+</p>
 
-Currently focused on web development, backend systems, databases, and building useful tools.
-
----
-
-## 🛠️ Tech Stack
-
-<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,prisma,sqlite,git,github,vscode" />
+</div>
 
 ---
 
-## 🚀 Featured Projects
+## 🧑‍💻 About Me
 
-### 🎸 Paco Music Center
+I'm Sina, a junior software developer passionate about building useful applications and learning through real-world projects.
 
-A full e-commerce website for selling musical instruments.
+I have experience developing production websites, e-commerce platforms, management systems and mobile applications.
 
-**Features:**
+My goal is to keep improving my skills, write better code, and build software that solves real problems.
 
-* Product management
-* Online store system
-* Admin panel
+---
+
+## 🚀 What I Do
+
+```text
+🌐 Web Applications
+⚙️ Backend Development
+🛒 E-commerce Platforms
+📱 Mobile Applications
+🗄️ Database Design
+🚀 Deployment & Production Setup
+```
+
+---
+
+# 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,prisma,sqlite,dart,flutter,git,github,vscode,linux" />
+
+</div>
+
+---
+
+# 🌟 Featured Projects
+
+## 🎸 Paco Music Center
+
+### Full E-commerce Platform
+
+A complete online store developed for a real music business.
+
+**Highlights:**
+
+* Product management system
+* Admin dashboard
 * Database integration
-* Deployment & hosting
+* Responsive design
+* Production deployment
+* SEO optimization
 
 ---
 
-### 📦 Inventory Management App
+## 🌌 Behbahan Astronomy
 
-A simple inventory management application.
+### Astronomy Website
 
-**Built with:**
+A website created for astronomy-related content and activities.
+
+**Highlights:**
+
+* Modern user interface
+* Content-focused structure
+* Responsive experience
+* Optimized pages
+
+---
+
+## 🏢 Niaeii Holding
+
+### Corporate Website
+
+A professional website developed for a business group.
+
+**Highlights:**
+
+* Company presentation
+* Modern landing pages
+* Business-oriented design
+* Responsive layout
+
+---
+
+## 🚗 Autoland24
+
+### Automotive Platform
+
+A website focused on automotive products and services.
+
+**Highlights:**
+
+* Vehicle showcase
+* Product pages
+* Business-focused structure
+
+---
+
+## 📦 Inventory Management App
+
+### Personal Application
+
+A local inventory management application built to organize and manage data.
+
+**Technologies:**
 
 * JavaScript
 * IndexedDB
@@ -46,41 +128,63 @@ A simple inventory management application.
 
 ---
 
-## 📚 Currently Learning
+## 📱 Flutter & Dart Projects
 
-* Better backend architecture
-* Database optimization
-* Clean code principles
-* Modern web development practices
+I have also explored mobile development using Flutter and Dart, building applications while learning cross-platform development.
 
 ---
 
-## 📊 GitHub Stats
+# 📚 Currently Learning
 
-<img src="https://github-readme-stats.vercel.app/api?username=sinatorbati&show_icons=true&theme=tokyonight" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinatorbati&layout=compact&theme=tokyonight" />
+🌱 Better software architecture
+⚡ Writing cleaner and maintainable code
+🗄️ Advanced database concepts
+🏗️ Building scalable applications
 
 ---
 
-## 🌐 Connect With Me
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=sinatorbati&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinatorbati&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 🎮 Beyond Coding
+
+When I'm away from the keyboard:
+
+🎮 I enjoy RPG and adventure games
+🎬 I like movies and series
+🌱 I enjoy exploring new technologies
+
+---
+
+# 📫 Connect With Me
+
+<div align="center">
 
 <a href="https://t.me/sinatorbati">
-<img src="https://img.shields.io/badge/Telegram-Contact-blue?style=for-the-badge&logo=telegram">
+<img src="https://img.shields.io/badge/Telegram-Contact-2CA5E0?style=for-the-badge&logo=telegram">
 </a>
 
 <a href="https://github.com/sinatorbati">
-<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/GitHub-sinatorbati-black?style=for-the-badge&logo=github">
 </a>
 
----
+</div>
 
-## ⚡ A little about me
+<br>
 
-🎮 I enjoy RPG games and exploring new worlds
-💻 I like building things from ideas
-🌱 Always learning and improving
+<div align="center">
 
----
+⭐ Building • Learning • Improving
 
-⭐ Thanks for visiting my profile!
+</div>
