@@ -6,6 +6,10 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Junior+Software+Developer;Building+Real+World+Projects;Web+%26+Mobile+Applications;Always+Learning+New+Things">
 
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=sinatorbati&label=Profile%20Views&color=blue&style=for-the-badge">
+
 </div>
 
 <br>
@@ -37,13 +41,17 @@ I enjoy transforming ideas into functional products and improving my skills with
 
 ## 🎮 Developer Journey
 
+<div align="center">
+
 ```text
 ⚔️ Class      : Software Developer
 🌱 Level      : Junior Developer
-🔥 Focus      : Building Real Applications
-🧠 Learning   : Clean Code & Better Architecture
-🚀 Quest      : Creating Useful Software
+🔥 Focus      : Real World Applications
+🧠 Skill Tree : Web • Backend • Mobile
+🚀 Quest      : Build, Learn, Improve
 ```
+
+</div>
 
 ---
 
@@ -152,9 +160,20 @@ Exploring mobile development and cross-platform applications using Flutter and D
 
 <div align="center">
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=7F5CFF&center=true&vCenter=true&width=700&lines=Building+Digital+Experiences;Turning+Ideas+Into+Reality;Debugging+%7C+Learning+%7C+Creating;One+Project+At+A+Time">
+
+</div>
+
+---
+
+# 📈 GitHub Activity
+
+<div align="center">
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sinatorbati&theme=tokyo-night&hide_border=true&area=true&custom_title=Sina%20Tabrati's%20Contribution%20Graph">
 
 </div>
+
 ---
 
 # 🐍 Contribution Snake
@@ -169,12 +188,16 @@ Exploring mobile development and cross-platform applications using Flutter and D
 
 # 🌱 Currently Learning
 
+<div align="center">
+
 ```text
 🏗️ Software Architecture
 ⚡ Clean Code Practices
 🗄️ Database Optimization
 🚀 Scalable Applications
 ```
+
+</div>
 
 ---
 
@@ -185,6 +208,16 @@ When I'm not coding:
 * 🎮 Playing RPG & Adventure games
 * 🎬 Watching movies and series
 * 🌱 Exploring new technologies
+
+---
+
+# 💻 Coding Mode
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
+
+</div>
 
 ---
 
@@ -212,6 +245,6 @@ When I'm not coding:
 
 <div align="center">
 
-⭐ Building • Learning • Improving
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Keep+Building+%F0%9F%9A%80;Keep+Learning+%F0%9F%8C%B1">
 
 </div>
