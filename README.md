@@ -143,15 +143,13 @@ I have also explored mobile development using Flutter and Dart, building applica
 
 ---
 
-# 📊 GitHub Stats
+<h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sinatorbati&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=sinatorbati&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
 
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinatorbati&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinatorbati&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 
 </div>
 
