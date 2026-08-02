@@ -164,7 +164,7 @@ Exploring mobile development and cross-platform applications using Flutter and D
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/sinatorbati/sinatorbati/output/github-contribution-grid-snake.svg">
+<img src="https://raw.githubusercontent.com/sinatorbati/sinatorbati/gh-pages/github-contribution-grid-snake.svg">
 
 </div>
 
